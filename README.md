@@ -178,6 +178,13 @@ dotnet run
 ## 📡 Endpoints da API
 
 ### Base URL
+
+**Produção (Render):**
+```
+https://odin-dotnet-api.onrender.com/api/v1
+```
+
+**Local:**
 ```
 https://localhost:5001/api/v1
 ```
@@ -503,6 +510,17 @@ dotnet ef database update
 # Usar porta diferente
 dotnet run --urls "https://localhost:5002"
 ```
+
+---
+
+## 🔗 Links de Produção
+
+| Recurso | URL |
+|---------|-----|
+| **API REST** | https://odin-dotnet-api.onrender.com/api/v1/satelites |
+| **Swagger UI** | https://odin-dotnet-api.onrender.com/swagger/index.html |
+| **OpenAPI JSON** | https://odin-dotnet-api.onrender.com/swagger/v1/swagger.json |
+| **GitHub** | https://github.com/Hebertlps/odin-dotnet-api |
 
 ---
 
