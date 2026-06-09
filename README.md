@@ -522,7 +522,7 @@ dotnet run --urls "https://localhost:5002"
 | **OpenAPI JSON** | https://odin-dotnet-api.onrender.com/swagger/v1/swagger.json |
 | **GitHub** | https://github.com/Hebertlps/odin-dotnet-api |
 | **Link do video explicação** | https://youtu.be/UnXwQ5acYWs |
-| **Link do video Pitch** |   |
+| **Link do video Pitch** | https://youtu.be/dd_OiNIxAH8   |
 
 ---
 
